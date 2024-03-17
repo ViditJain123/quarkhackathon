@@ -1,7 +1,7 @@
 // const express = require('express');
 // const app = express();
 // const port = 3000;
-// const mongoose = require('mongoose')
+// const mongoose = require('mongoose') at
 
 // const mongoURI = 'mongodb://vidit:password_123@ac-munnlo7-shard-00-00.g08oqga.mongodb.net:27017,ac-munnlo7-shard-00-01.g08oqga.mongodb.net:27017,ac-munnlo7-shard-00-02.g08oqga.mongodb.net:27017/?ssl=true&replicaSet=atlas-yirhrv-shard-0&authSource=admin&retryWrites=true&w=majority';
 
